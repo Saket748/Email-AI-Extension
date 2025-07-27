@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Chatbot Popup</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      width: 200px;
+      height: 200px;
+      background-color: #d8def8;
+      display: flex;
+      justify-content: center;  
+      align-items: center;
+      font-family: sans-serif;
+    }
+
+    .chatbot-container {
+      text-align: center;
+      animation: float 2s ease-in-out infinite;
+    }
+
+    .chatbot-container img {
+      width: 130px;
+      height: auto;
+    }
+
+    @keyframes float {
+      0% { transform: translateY(0); }
+      50% { transform: translateY(-8px); }
+      100% { transform: translateY(0); }
+    }
+
+    .label {
+      margin-top: 10px;
+      font-size: 14px;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="chatbot-container">
+    <img src="hello_extension.png" alt="Chatbot Icon">
+    <div class="label">AI Email Reply?</div>
+  </div>
+
+</body>
+</html>
