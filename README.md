@@ -47,6 +47,3 @@ Click it and boom 💥 — a professional email reply is auto-generated for you 
 | HTML/CSS          | UI of the popup & extension controls |
 
 ---
-
-## ⚙️ How It Works (Architecture)
-
