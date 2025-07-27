@@ -2,7 +2,7 @@
 
 A smart and time-saving Chrome Extension that integrates directly with Gmail. With one click, it generates professional email replies using **Spring Boot**, **Spring AI**, **Google Gemini API**, and **JavaScript** — no more switching tabs, copy-pasting from ChatGPT, or wasting time writing responses.
 
-![Banner](https://your-image-link.com/banner.png)
+![Banner](banner.png)
 
 ---
 
