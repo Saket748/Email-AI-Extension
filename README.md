@@ -9,7 +9,7 @@ A smart and time-saving Chrome Extension that integrates directly with Gmail. Wi
 ## 🧠 What It Does
 
 Whenever you're on a Gmail thread, you’ll see a new button: **"AI Reply"**  
-Click it and boom 💥 — a professional email reply is auto-generated for you in seconds using Gemini AI. Review it, edit if needed, and hit send.
+Click it and boom 💥 — a professional email reply is auto-generated for you in seconds using AI. Review it, edit if needed, and hit send.
 
 ---
 
@@ -27,11 +27,11 @@ Click it and boom 💥 — a professional email reply is auto-generated for you 
 
 ## 📷 Demo / Screenshots
 
-### 1. **Gmail Interface with AI Reply Button**
-![AI Reply Button](https://your-image-link.com/ai-reply-button.png)
+### 1. **Gmail Interface with Chrome Extention**
+![AI Reply Button](assests/gmail_ext.png)
 
 ### 2. **Generated AI Reply Populating Gmail Reply Box**
-![Auto Generated Reply](https://your-image-link.com/generated-reply.png)
+![Auto Generated Reply](assests/reply_button.png)
 
 ---
 
